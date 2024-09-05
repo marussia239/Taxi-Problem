@@ -1,2 +1,2 @@
 # Taxi Problem
-Solving a Taxi Problem using Reinforcement Learning techniques
+Exploration-exploitation tradeoff for the Taxi problem.
